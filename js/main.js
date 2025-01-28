@@ -1,0 +1,1 @@
+document.getElementById('domain').textContent = window.location.hostname; 
